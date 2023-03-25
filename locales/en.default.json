@@ -65,7 +65,7 @@
       },
       "search_for": "Search for",
       "products": "Products",
-      "loading": "Loading",
+      "loading": "Loading...",
       "clear_search_term": "Clear search term",
       "number_of_results": "{{ result_number }} of {{ results_count }}",
       "number_of_results_found": "{{ results_count }} results found",
