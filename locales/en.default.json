@@ -349,13 +349,13 @@
   },
   "layout": {
     "navigation": {
-      "search": "Search",
-      "expand": "expand",
-      "collapse": "collapse",
-      "menu": "Menu"
+      "search": " ",
+      "expand": " ",
+      "collapse": " ",
+      "menu": " "
     },
     "cart": {
-      "title": "Cart",
+      "title": " ",
       "items_count": {
         "one": "item",
         "other": "items"
